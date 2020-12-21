@@ -1,4 +1,4 @@
-### YanzBot
+### _HinataCantik_
 
 
 
@@ -30,8 +30,8 @@ kalo lu belum punya apk termux, download di playstore
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/XP-TN/XP-TNNBOT
-> cd XP-TNNBOT
+> git clone https://github.com/stylecogan11/_HinataCantik_
+> cd _HinataCantik_
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
@@ -41,7 +41,7 @@ Siapin alat dan bahannya.
 > Download Nodejs
 > jika udah open laLU install script ini
 > jika udh semua kalian pindahkan ke localdisk c
-> jika udah ketik di nodejs nya cd C:\XP-TNNBOT-main
+> jika udah ketik di nodejs nya cd C:\stylecogan11-main
 > npm i ytdl
 > npm i cwebp
 > npm i
@@ -55,7 +55,7 @@ Github ini dan support😅
 ```
 ## Features
 
-| XP-TNBOT      |                   Feature        |
+| _HinataCantik_      |                   Feature        |
  :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
