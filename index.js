@@ -4,9 +4,9 @@
 * jangan ubah semuanya kecuali nama bot instagram yt itu ajah yg lain jangan!!!
 * hargai pembuat skrip woy!!! DI UBAH AUTO EROR GAN
 */
-const XPTN = 'Rizky Bot'; // JANGAN DI UBAH NNTI EROR
-const instagram = '_rizkyfadilah8'; // JANGAN DI UBAH NNTI EROR
-const nomer = '082387804410'; // JANGAN DI UBAH NANTI EROR
+const XPTN = '_HinataCantik_'; // JANGAN DI UBAH NNTI EROR
+const instagram = '_Cogan_112'; // JANGAN DI UBAH NNTI EROR
+const nomer = '089509938750'; // JANGAN DI UBAH NANTI EROR
 const aktif = 'SETERAH GW LAH MAU AKTIF KAPAN!'; // DI GANTI AUTO EROR
 const groupwa = 'https://chat.whatsapp.com/LLCSpSL2S8A1NJwTnMIgWY'; // DI GANTI AUTO EROR
 const youtube = 'Rizky Fadilah'; // DI GANTI AUTO EROR
@@ -152,9 +152,9 @@ else if (text == 'asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '.owner'){
-conn.sendMessage(id, 'Owner Rizky Bot wa.me/+6282387804410' ,MessageType.text);
+conn.sendMessage(id, 'Owner Stylecogan11 wa.me/+6289509938750' ,MessageType.text);
 }
-else if (text == 'Rizky'){
+else if (text == '@stylecogan'){
 conn.sendMessage(id, 'apa si sok asik sama owner ku><' ,MessageType.text);
 }
 else if (text == 'Sagiri'){
@@ -1262,22 +1262,22 @@ else if (text == '.help'){
 conn.sendMessage(id, ' _TERIMAKASIH BANYAK TELAH MENGGUNAKAN FITUR INI... JANGAN LUPA UNTUK DONASI YA' ,MessageType.text);
 }
 else if (text == '.menu1'){
-conn.sendMessage(id, ' terimakasih sudah menggunakan RIZKY NOT jangan lupa follow ig mimin ya @_rizkyfadilah8' ,MessageType.text);
+conn.sendMessage(id, ' terimakasih sudah menggunakan _HinataCantik_ jangan lupa follow ig mimin ya @_cogan_112' ,MessageType.text);
 }
 else if (text == '.menu'){
-conn.sendMessage(id, ' terimakasih sudah menggunakan RIZKY BOT jangan lupa follow ig mimin ya @_rizkyfadilah8' ,MessageType.text);
+conn.sendMessage(id, ' terimakasih sudah menggunakan _HinataCantik_ jangan lupa follow ig mimin ya @_cogan_112' ,MessageType.text);
 }
 else if (text == '.menu2'){
-conn.sendMessage(id, 'terimakasih sudah menggunakan RIZKY BOT jangan lupa follow ig mimin ya @_rizkyfadilah8' ,MessageType.text);
+conn.sendMessage(id, 'terimakasih sudah menggunakan _HinataCantik_ jangan lupa follow ig mimin ya @_cogan_112' ,MessageType.text);
 }
 else if (text == '.menu3'){
-conn.sendMessage(id, ' terimakasih sudah menggunakan RIZKY BOT jangan lupa follow ig mimin ya @_rizkyfadilah8' ,MessageType.text);
+conn.sendMessage(id, ' terimakasih sudah menggunakan _HinataCantik_ jangan lupa follow ig mimin ya @_cogan_112' ,MessageType.text);
 }
 else if (text == '.menu4'){
-conn.sendMessage(id, ' terimakasih sudah menggunakan RIZKY BOT jangan lupa follow ig mimin ya @_rizkyfadilah8' ,MessageType.text);
+conn.sendMessage(id, ' terimakasih sudah menggunakan _HinataCantik_ jangan lupa follow ig mimin ya @_cogan_112' ,MessageType.text);
 }
 else if (text == '.menu5'){
-conn.sendMessage(id, ' terimakasih sudah menggunakan RIZKY BOT jangan lupa follow ig mimin ya @_rizkyfadilah8' ,MessageType.text);
+conn.sendMessage(id, ' terimakasih sudah menggunakan _HinataCantik_ jangan lupa follow ig mimin ya @_cogan_112' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {
